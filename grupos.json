@@ -1,58 +1,58 @@
 [
     {
         "grupo": "A",
-        "selecao1": ["Catar.svg", "Catar", "CAT"],
-        "selecao2": ["Equador.svg", "Equador", "EQU"],
-        "selecao3": ["Senegal.svg", "Senegal", "SEN"],
-        "selecao4": ["Holanda.svg", "Holanda", "HOL"]
+        "selecao1": ["catar.svg", "Catar", "CAT"],
+        "selecao2": ["equador.svg", "Equador", "EQU"],
+        "selecao3": ["senegal.svg", "Senegal", "SEN"],
+        "selecao4": ["holanda.svg", "Holanda", "HOL"]
     },
     {
         "grupo": "B",
-        "selecao1": ["Inglaterra.svg", "Inglaterra", "ING"],
-        "selecao2": ["Ira.svg", "Irã", "IRA"],
-        "selecao3": ["Estados_unidos.svg", "Estados Unidos", "EUA"],
+        "selecao1": ["inglaterra.svg", "Inglaterra", "ING"],
+        "selecao2": ["ira.svg", "Irã", "IRA"],
+        "selecao3": ["estados_unidos.svg", "Estados Unidos", "EUA"],
         "selecao4": ["escudo_default.png", "País de Gales/Escócia/Ucrânia", "EUR"]
     },
     {
         "grupo": "C",
-        "selecao1": ["Arabia_Saudita.svg", "Arábia Saudita", "ARA"],
-        "selecao2": ["Argentina.svg", "Argentina", "ARG"],
-        "selecao3": ["Mexico.svg", "México", "MEX"],
-        "selecao4": ["Polonia.svg", "Polônia", "POL"]
+        "selecao1": ["arabia_Saudita.svg", "Arábia Saudita", "ARA"],
+        "selecao2": ["argentina.svg", "Argentina", "ARG"],
+        "selecao3": ["mexico.svg", "México", "MEX"],
+        "selecao4": ["polonia.svg", "Polônia", "POL"]
     },
     {
         "grupo": "D",
-        "selecao1": ["Dinamarca.svg", "Dinamarca", "DIN"],
+        "selecao1": ["dinamarca.svg", "Dinamarca", "DIN"],
         "selecao2": ["escudo_default.png", "Emirados Árabes ou Austrália ou Peru", "PL1"],
-        "selecao3": ["Franca.svg", "França", "FRA"],
-        "selecao4": ["Tunisia.svg", "Tunísia", "TUN"]
+        "selecao3": ["franca.svg", "França", "FRA"],
+        "selecao4": ["tunisia.svg", "Tunísia", "TUN"]
     },
     {
         "grupo": "E",
-        "selecao1": ["Alemanha.svg", "Alemanha", "ALE"],
+        "selecao1": ["alemanha.svg", "Alemanha", "ALE"],
         "selecao2": ["escudo_default.png", "Costa Rica ou Nova Zelândia", "PL2"],
-        "selecao3": ["Espanha.svg", "Espanha", "ESP"],
-        "selecao4": ["Japao.svg", "Japão", "JAP"]
+        "selecao3": ["espanha.svg", "Espanha", "ESP"],
+        "selecao4": ["japao.svg", "Japão", "JAP"]
     },
     {
         "grupo": "F",
-        "selecao1": ["Belgica.svg", "Bélgica", "BEL"],
-        "selecao2": ["Canada.svg", "Canadá", "CAN"],
-        "selecao3": ["Croacia.svg", "Croácia", "CRO"],
-        "selecao4": ["Marrocos.svg", "Marrocos", "MAR"]
+        "selecao1": ["belgica.svg", "Bélgica", "BEL"],
+        "selecao2": ["canada.svg", "Canadá", "CAN"],
+        "selecao3": ["croacia.svg", "Croácia", "CRO"],
+        "selecao4": ["marrocos.svg", "Marrocos", "MAR"]
     },
     {
         "grupo": "G",
-        "selecao1": ["Brasil.svg", "Brasil", "BRA"],
-        "selecao2": ["Camaroes.svg", "Camarões", "CAM"],
-        "selecao3": ["Servia.svg", "Sérvia", "SER"],
-        "selecao4": ["Suica.svg", "Suíça", "SUI"]
+        "selecao1": ["brasil.svg", "Brasil", "BRA"],
+        "selecao2": ["camaroes.svg", "Camarões", "CAM"],
+        "selecao3": ["servia.svg", "Sérvia", "SER"],
+        "selecao4": ["suica.svg", "Suíça", "SUI"]
     },
     {
         "grupo": "H",
-        "selecao1": ["Coreia_do_Sul.svg", "Coreia do Sul", "COR"],
-        "selecao2": ["Gana.svg", "Gana", "GAN"],
-        "selecao3": ["Portugal.svg", "Portugal", "POR"],
-        "selecao4": ["Uruguai.svg", "Uruguai", "URU"]
+        "selecao1": ["coreia_do_sul.svg", "Coreia do Sul", "COR"],
+        "selecao2": ["gana.svg", "Gana", "GAN"],
+        "selecao3": ["portugal.svg", "Portugal", "POR"],
+        "selecao4": ["uruguai.svg", "Uruguai", "URU"]
     }
 ]

@@ -25,13 +25,13 @@ const verGrupos = () => {
             tituloDoGrupo[index].innerHTML = `Grupo ${grupo.grupo}`
 
             listaDeSelecoes[index].innerHTML = `
-            <li><img class='bandeirap' src='../images/bandeiras/${grupo.selecao1[0]}' alt='bandeira' />
+            <li><img class='bandeirap' src='./images/bandeiras/${grupo.selecao1[0]}' alt='bandeira' />
             ${grupo.selecao1[1]}</li>
-            <li><img class='bandeirap' src='../images/bandeiras/${grupo.selecao2[0]}' alt='bandeira' />
+            <li><img class='bandeirap' src='./images/bandeiras/${grupo.selecao2[0]}' alt='bandeira' />
             ${grupo.selecao2[1]}</li>
-            <li><img class='bandeirap' src='../images/bandeiras/${grupo.selecao3[0]}' alt='bandeira' />
+            <li><img class='bandeirap' src='./images/bandeiras/${grupo.selecao3[0]}' alt='bandeira' />
             ${grupo.selecao3[1]}</li>
-            <li><img class='bandeirap' src='../images/bandeiras/${grupo.selecao4[0]}' alt='bandeira' />
+            <li><img class='bandeirap' src='./images/bandeiras/${grupo.selecao4[0]}' alt='bandeira' />
             ${grupo.selecao4[1]}</li>
             `
 
