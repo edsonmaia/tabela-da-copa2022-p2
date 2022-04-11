@@ -150,16 +150,6 @@ h4, h5 {
     margin: 0.5rem 0;
 }
 
-/* link a */
-a {
-    text-decoration: none;
-    color: #222;
-}
-
-a:hover {
-    color:rgba(157, 12, 53, 1);
-}
-
 .btn-fase {
     background: rgba(157, 12, 53);
     color: #fff;   
