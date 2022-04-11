@@ -150,6 +150,11 @@ h4, h5 {
     margin: 0.5rem 0;
 }
 
+h3 a {
+    color: rgba(157, 12, 53);
+    text-decoration: none;
+}
+
 .btn-fase {
     background: rgba(157, 12, 53);
     color: #fff;   
