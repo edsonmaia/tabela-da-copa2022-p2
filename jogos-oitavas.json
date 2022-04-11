@@ -1,0 +1,90 @@
+[
+    {
+        "rodada": "oitavas de final",
+        "oitavas": 1,
+        "diaSemana": "SÁB",
+        "data": "03/12/2022",
+        "hora": "12:00",
+        "estadio": "INTERNACIONAL KHALIFA",
+        "partida": "1A x 2B",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "oitavas de final",
+        "oitavas": 2,
+        "diaSemana": "SÁB",
+        "data": "03/12/2022",
+        "hora": "16:00",
+        "estadio": "AL RAYYAN",
+        "partida": "1C x 2D",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "oitavas de final",
+        "oitavas": 3,
+        "diaSemana": "SEG",
+        "data": "05/12/2022",
+        "hora": "12:00",
+        "estadio": "AL WAKRAH",
+        "partida": "1E x 2F",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "oitavas de final",
+        "oitavas": 4,
+        "diaSemana": "SEG",
+        "data": "05/12/2022",
+        "hora": "16:00",
+        "estadio": "PORTO DE DOHA",
+        "partida": "1G x 2H",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "oitavas de final",
+        "oitavas": 5,
+        "diaSemana": "DOM",
+        "data": "04/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "1B x 2A",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "oitavas de final",
+        "oitavas": 6,
+        "diaSemana": "DOM",
+        "data": "04/12/2022",
+        "hora": "12:00",
+        "estadio": "AL THUMAMA",
+        "partida": "1D x 2C",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "oitavas de final",
+        "oitavas": 7,
+        "diaSemana": "TER",
+        "data": "06/12/2022",
+        "hora": "12:00",
+        "estadio": "CIDADE DA EDUCAÇÃO",
+        "partida": "1F x 2E",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "oitavas de final",
+        "oitavas": 8,
+        "diaSemana": "TER",
+        "data": "06/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "1H x 2G",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    }
+]

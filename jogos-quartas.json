@@ -1,0 +1,46 @@
+[
+    {
+        "rodada": "quartas de final",
+        "quartas": 1,
+        "diaSemana": "SEX",
+        "data": "09/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "Venc. O1 x Venc. O2",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "quartas de final",
+        "quartas": 2,
+        "diaSemana": "SEX",
+        "data": "09/12/2022",
+        "hora": "12:00",
+        "estadio": "CIDADE DA EDUCAÇÃO",
+        "partida": "Venc. O3 x Venc. O4",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "quartas de final",
+        "quartas": 3,
+        "diaSemana": "SÁB",
+        "data": "10/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "Venc. O5 x Venc. O6",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "quartas de final",
+        "quartas": 4,
+        "diaSemana": "SÁB",
+        "data": "10/12/2022",
+        "hora": "12:00",
+        "estadio": "AL THUMAMA",
+        "partida": "Venc. O7 x Venc. O8",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "rodada": "semi final",
+        "semi": 1,
+        "diaSemana": "TER",
+        "data": "13/12/2022",
+        "hora": "16:00",
+        "estadio": "NACIONAL DE LUSAIL",
+        "partida": "Venc. Q1 x Venc. Q2",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    },
+    {
+        "rodada": "semi final",
+        "semi": 2,
+        "diaSemana": "QUA",
+        "data": "14/12/2022",
+        "hora": "16:00",
+        "estadio": "AL KHOR",
+        "partida": "Venc. Q3 x Venc. Q4",
+        "mandante": "bandeira_padrao.svg",
+        "visitante": "bandeira_padrao.svg"
+    }
+]
